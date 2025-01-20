@@ -1,0 +1,16 @@
+{
+  "zone_number": 21,
+  "hemisphere": "S",
+  "ul_easting": 354984.0,
+  "ul_northing": 6185506.0,
+  "lr_easting": 355350.0,
+  "lr_northing": 6185156.0,
+  "width": 366.0,
+  "height": 350.0,
+  "lat_min": -34.46502326566303,
+  "lat_max": -34.46181668295237,
+  "lon_min": -58.578907031700055,
+  "lon_max": -58.57486415190645,
+  "alt_min": -20.0,
+  "alt_max": 80.0
+}
